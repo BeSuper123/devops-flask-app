@@ -11,5 +11,5 @@ def about_sec():
 
 @app.contact('/contact')
 def contact_sec():
-	return '<p>My Name: Blessing Ugochukwu <br> My Email: bugochukwu17@gmail.com</p>'
+	return '<p>My Name: Blessing Ugochukwu <br> My Email: Bugochukwu17@gmail.com</p>'
 	
