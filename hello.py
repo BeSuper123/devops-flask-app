@@ -7,7 +7,7 @@ def say_hello():
 
 @app.route('/about')
 def about_sec():
-	return '<p>The following link is a link to the flask explanation page -></p> <a href="https://flask.palletsprojects.com">Link</a>'
+	return '<p>The following link is a link to the flask explanation page -></p> <a href="https://flask.palletsprojects.com">Link to flask</a> <br><br><a href="https://python.org">link to python</a>'''
 
 @app.contact('/contact')
 def contact_sec():
