@@ -1,0 +1,187 @@
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Exception ignored in thread started by: <function server at 0x7f12ba2aeb60>
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 56, in server
+    server_socket.connect((settings[1], settings[2]))
+ConnectionRefusedError: [Errno 111] Connection refused
+Exception ignored in thread started by: <function server at 0x7f12ba2aeb60>
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 51, in server
+    dock_socket.bind(('', settings[0]))
+OSError: [Errno 98] Address already in use
+Exception ignored in thread started by: <function server at 0x7f12ba2aeb60>
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 56, in server
+    server_socket.connect((settings[1], settings[2]))
+ConnectionRefusedError: [Errno 111] Connection refused
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 38, in main
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 73, in <module>
+    main('port-forward.config', 'error.log', sys.argv[1:])
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 30, in main
+    for settings in parse_args(args):
+                    ^^^^^^^^^^^^^^^^
+  File "/home/vagrant/devops-flask-app/port-forward.py", line 44, in parse_args
+    settings.append((int(parts[0]), parts[1], int(parts[2])))
+                     ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '0.0.0.0'

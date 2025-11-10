@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://vagrantcloud.com/search.
   config.vm.box = "debian/bookworm64"
-  config.vm.network "forwarded_port", guest: 5000, host: 5001
+  config.vm.network "forwarded_port", guest: 5000, host: 5006
   config.vm.provision "shell", inline: <<-SHELL
     /vagrant/lab1.sh
   SHELL
